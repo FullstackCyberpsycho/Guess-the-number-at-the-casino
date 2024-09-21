@@ -1,0 +1,3 @@
+﻿  Guess the number at the casino,.cpp
+C:\Users\Денис Киселев\source\repos\Guess the number at the casino,\Guess the number at the casino,.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Guess the number at the casino,.vcxproj -> C:\Users\Денис Киселев\source\repos\Guess the number at the casino,\x64\Debug\Guess the number at the casino,.exe
